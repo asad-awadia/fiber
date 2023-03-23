@@ -5,13 +5,13 @@ go 1.20
 require (
 	github.com/google/uuid v1.3.0
 	github.com/mattn/go-colorable v0.1.13
-	github.com/mattn/go-isatty v0.0.17
+	github.com/mattn/go-isatty v0.0.18
 	github.com/mattn/go-runewidth v0.0.14
 	github.com/savsgio/dictpool v0.0.0-20221023140959-7bf2e61cea94
 	github.com/tinylib/msgp v1.1.6
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/valyala/fasthttp v1.44.0
-	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
+	golang.org/x/sys v0.6.0
 )
 
 require (
